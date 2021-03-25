@@ -1,13 +1,3 @@
-- 👋 Hi, I’m @NoDanCoder
-
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-NoDanCoder/NoDanCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <h2 align="center">👋 Hello! I'm Daniel Cumaco</h2>
 
 - 📈  Most experienced on Python and C
