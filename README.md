@@ -3,7 +3,7 @@
 - 📈  Most experienced on Python and C
 - 👀  I’m interested in Maths, CS and low level topics
 - ✉️  Reach me through my email: **dancoder@protonmail.com**
-- 🏢  Not employed, but working on several personal projects
+- 🏢  Backend Developer
 -------
 
 ### 🔧 Technologies and tools
