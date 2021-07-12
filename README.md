@@ -3,7 +3,7 @@
 - 📈  Most experienced on Python and C
 - 👀  I’m interested in Maths, CS and low level topics
 - ✉️  Reach me through my email: **dancoder@protonmail.com**
-- 🏢  Backend Developer at MO
+- 🏢  Software Developmet Analyst at MercadoLibre
 -------
 
 ### 🔧 Technologies and tools
