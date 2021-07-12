@@ -2,7 +2,7 @@
 
 - 📈  Most experienced on Python and C
 - 👀  I’m interested in Maths, CS and low level topics
-- ✉️  Reach me through my email: **dancoder@protonmail.com**
+- ✉️  Reach me through my email: **dancoder@pm.me**
 - 🏢  Software Developmet Analyst at MercadoLibre
 -------
 
