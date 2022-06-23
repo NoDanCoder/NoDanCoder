@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hello! I'm Daniel Cumaco</h2>
 
-- 📈  Most experienced on Python and C
-- 👀  I’m interested in Maths, CS and low level topics
+- 📈  Most experienced on Python, C and Java
+- 👀  I’m interested in Maths, CS topics
 - ✉️  Reach me through my email: **dancoder@pm.me**
 - 🏢  Software Developmet Analyst at MercadoLibre
 -------
