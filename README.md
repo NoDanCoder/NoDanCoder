@@ -8,7 +8,11 @@
 
 ### 🔧 Technologies and tools
 <div>
-  <img src="https://img.shields.io/badge/java%20-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/java%20-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/kibana%20-%23005571.svg?&style=for-the-badge&logo=kibana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/junit5%20-%2325A162.svg?&style=for-the-badge&logo=junit5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/docker%20-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/kubernetes%20-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/springboot%20-%236DB33F.svg?&style=for-the-badge&logo=spring-boot&logoColor=white"/>
   <img src="https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/datadog%20-%23007ACC.svg?&style=for-the-badge&logo=datadog&logoColor=white"/>
@@ -16,5 +20,4 @@
   <img src="https://img.shields.io/badge/dynamodb%20-%23FFCA28.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/CD%2FCI%20-%231572B6.svg?&style=for-the-badge&logo=jfrog-bintray&logoColor=white"/>
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 </div>
