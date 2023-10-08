@@ -8,7 +8,7 @@
 
 ### 🔧 Technologies and tools
 <div>
-  <img src="https://img.shields.io/badge/java%20-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/kibana%20-%23005571.svg?&style=for-the-badge&logo=kibana&logoColor=white"/>
   <img src="https://img.shields.io/badge/junit5%20-%2325A162.svg?&style=for-the-badge&logo=junit5&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker%20-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
